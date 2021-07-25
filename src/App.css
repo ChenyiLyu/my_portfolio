@@ -179,19 +179,19 @@ nav ul li {
   }
 }
 
-/************************ Services *********************************/
-.services {
+/************************ Skills  *********************************/
+.skills {
   text-align: center;
   padding-bottom: 2rem;
   background: var(--primary-light-grey);
 }
 
-.services h1 {
+.skills h1 {
   color: var(--primary-dark);
   text-transform: uppercase;
 }
 
-.services .circle {
+.skills .circle {
   position: relative;
   margin: 0.5rem auto;
   /* background: var(--primary-light-grey); */
@@ -200,7 +200,7 @@ nav ul li {
   height: 3.125rem;
 }
 
-.services .icon {
+.skills .icon {
   font-size: 1.4rem;
   /* color: var(--primary-white); */
   position: absolute;
@@ -209,7 +209,7 @@ nav ul li {
   transform: translate(-50%, -50%);
 }
 
-.services .box {
+.skills .box {
   height: 16rem;
   border-bottom: 0.3125rem solid var(--primary-purple);
   padding: 0.625rem;
@@ -218,20 +218,20 @@ nav ul li {
   transition: 0.3s ease-in-out;
 }
 
-.services .box:hover {
+.skills .box:hover {
   background: var(--primary-purple);
   border-bottom: 0.3125rem solid var(--primary-dark);
 }
 
-.services .box:hover .icon {
+.skills .box:hover .icon {
   color: var(--primary-dark);
 }
 
-.services .box:hover .circle {
+.skills .box:hover .circle {
   background: var(--primary-white);
 }
 
-.services .box:hover p {
+.skills .box:hover p {
   color: var(--primary-white);
 }
 
