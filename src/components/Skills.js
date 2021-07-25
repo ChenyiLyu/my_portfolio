@@ -6,7 +6,7 @@ import { FaJava, FaPython, FaJs, FaRProject, FaHtml5, FaGithub, FaReact, FaCat} 
 import { FaDna } from 'react-icons/fa';
 import { SiMathworks } from "react-icons/si";
 
-const Services = () => {
+const Skills = () => {
   return (
     <div id="skills" className="skills">
       <h1 className="py-5">my skills and interests</h1>
@@ -77,4 +77,4 @@ const Services = () => {
   )
 }
 
-export default Services;
+export default Skills;
