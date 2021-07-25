@@ -17,7 +17,7 @@ const AboutMe = () => {
 
             Meanwhile, I am interested in software developing (I am seeking a Full-Stack internship position for 2022 summer!<span role="img" aria-label="rocket">🚀</span>). 
 
-            I come from a interdisciplinary engineer background; I am passionate about exploring every tech stack<span role="img" aria-label="fire">🔥</span>.
+            I come from a interdisciplinary engineer background - an active, quick learner; I am passionate about exploring every tech stack<span role="img" aria-label="fire">🔥</span>.
 
             My aspiration of developing products that could improve every day life has always motivated me during my journey.
             
